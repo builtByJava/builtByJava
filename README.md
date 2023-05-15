@@ -1,6 +1,6 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Backend Java Developer pursuing several Oracle certifications. I'm proficient in Java 8, Java 17, Object-Oriented Programming, SpringBoot/Spring Frameworks, Databases, and Linux. Additionally, I'm proficient in several front-end technologies such as JavaScript and it's frameworks of React and Angular
+My name is Dan Warcholak and I am a Backend Engineer pursuing several Oracle certifications. I'm proficient in Java 8, Java 17, Object-Oriented Programming, SpringBoot/Spring Frameworks, Databases, and Linux. Additionally, I'm proficient in several front-end technologies such as JavaScript and it's frameworks of React and Angular
 
 - 🔭 I’m currently working on ...
   - Professional Certifications:
@@ -12,11 +12,11 @@ My name is Dan Warcholak and I am a Backend Java Developer pursuing several Orac
      - Oracle Certified Professional, Java SE 17
 
    - Personal Projects: 
-     -   An e-commerce application 
-     -   A pomodoro timer style time management application
+     -   An e-commerce application(this will be  a fullstack application - Angular(FE) Java Spring/SpringBoot(BE) DB(TBD)
      -   A flight reservation/bookings application
      -   A city tours application
-     -   A pharmacy application
+     -   A food ordering application ( this will be a simple application written in Core Java, Swing, and use MySQL for DB)
+     -   A pharmacy application (this will be a simple application written in Core Java and will use Swing for GUI)
 
 - 🌱 I’m currently learning ...
     - More Core Java 
