@@ -15,7 +15,8 @@ My name is Dan Warcholak and I am a Backend Java Developer pursuing several Orac
      -   An e-commerce application 
      -   A pomodoro timer style time management application
      -   A flight reservation/bookings application
-     -   A City tours application
+     -   A city tours application
+     -   A pharmacy application
 
 - 🌱 I’m currently learning ...
     - More Core Java 
