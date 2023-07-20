@@ -1,34 +1,34 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Backend Engineer pursuing several Oracle certifications. I'm proficient in Java 8, Java 17, Object-Oriented Programming, SpringBoot/Spring Frameworks, Databases, and Linux. Additionally, I'm experienced in several front-end technologies such as JavaScript and the frameworks of React and Angular
+My name is Dan Warcholak and I am a Full Stack JavaScript Developer. I'm proficient in core vanilla JavaScript, React.js, Node.js, Databases, and Linux. Additionally, I'm experienced in foundational working knowledge of PHP, Java SpringBoot, Core Java, and Go
 
 - 🔭 I’m currently working on ...
   - Professional Certifications:
      - Oracle Certified Foundations Associate
-     - Oracle Certified Associate, Java SE 8 Programmer
-     - Oracle Certified Professional, Java SE 8 Programmer
-     - Oracle Certified Professional, Java EE 7 Application Developer
-     - Oracle Certified Professional, Java SE 11 Programmer
-     - Oracle Certified Professional, Java SE 17
+     - the Odin Project
+     - FreeCodeCamp Front-End Development Libraries certification
+     - FreeCodeCamp JavaScript Algorithms & Data Structure certification
 
    - Personal Projects: 
-     -   An e-commerce application(this will be  a full-stack application - Angular(FE) Java Spring/SpringBoot(BE) DB(TBD)
+     -   A Pomodoro time-management application for studying or work tasks (this application will be written in vanilla JavaScript and jQuery)
      -   A flight reservation/bookings application
-     -   A city tours application
-     -   A food ordering application ( this will be a simple full-stack application written in ReactJS, Core Java, and use MongoDB for DB)
-     -   A pharmacy application (this will be a simple application written in Core Java and will use Swing for GUI)
+     -   A city tours application (this will be a full-stack application written in React.js, PHP, and MySQL)
+     -   A food ordering application ( this will be a simple full-stack application written in React.js, Node.js, and MySQL)
+     -   A pharmacy application (this will be a full-stack application written in React.js, Go, and Postgres)
 
 - 🌱 I’m currently learning ...
-    - More Core Java 
-    - Java Data Structures & Algorithms
+    - More Core JavaScript
+    - JavaScript Data Structures & Algorithms
     - SpringBoot
     - JakartaEE
     - ReactJS and Angular
-    - Fullstack Java Web Development
+    - Fullstack JavaScript Web Development
+    - RDBMS
 
 
 - My achievements so far...
     - 100DaysOfCodeChallenge
+    - Pomodoro Time-Management Applicaton GEN 1
 
 Outside of the tech sector & work, I enjoy history, reading, film,  bodybuilding, traveling, basketball, and chess/grand-strategy games.
 -->
