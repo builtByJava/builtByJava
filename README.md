@@ -1,6 +1,6 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Full Stack JavaScript Developer. I'm proficient in core vanilla JavaScript, React.js, Node.js, Databases, and Linux. Additionally, I'm experienced in foundational working knowledge of PHP, Java SpringBoot, Core Java, and Go
+My name is Dan Warcholak and I am a JavaScript Developer. I'm proficient in core vanilla JavaScript, React.js, Node.js, Next.js, Databases, and Linux. Additionally, I'm experienced in foundational working knowledge of PHP, Java SpringBoot, Core Java, and Go
 
 - 🔭 I’m currently working on ...
   - Professional Certifications:
@@ -11,6 +11,7 @@ My name is Dan Warcholak and I am a Full Stack JavaScript Developer. I'm profici
 
    - Personal Projects: 
      -   A Pomodoro time-management application for studying or work tasks (this application will be written in vanilla JavaScript and jQuery)
+     -   A personal finance/budget app (written in React.js, Node.js)
      -   A flight reservation/bookings application
      -   A city tours application (this will be a full-stack application written in React.js, PHP, and MySQL)
      -   A food ordering application ( this will be a simple full-stack application written in React.js, Node.js, and MySQL)
