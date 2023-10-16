@@ -1,30 +1,27 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a JavaScript Developer. I'm proficient in core vanilla JavaScript, React.js, Node.js, Next.js, Databases, and Linux. Additionally, I'm experienced in foundational working knowledge of PHP, Java SpringBoot, Core Java, and Go
+My name is Dan Warcholak and I am a Full Stack Web Developer. 
 
-- 🔭 I’m currently working on ...
-  - Professional Certifications:
-     - Oracle Certified Foundations Associate
-     - the Odin Project
-     - FreeCodeCamp Front-End Development Libraries certification
-     - FreeCodeCamp JavaScript Algorithms & Data Structure certification
+- 🔭 I’m currently working on ... 
 
-   - Personal Projects: 
-     -   A Pomodoro time-management application for studying or work tasks (this application will be written in vanilla JavaScript and jQuery)
-     -   A personal finance/budget app (written in React.js, Node.js)
-     -   A flight reservation/bookings application
-     -   A city tours application (this will be a full-stack application written in React.js, PHP, and MySQL)
-     -   A food ordering application ( this will be a simple full-stack application written in React.js, Node.js, and MySQL)
-     -   A pharmacy application (this will be a full-stack application written in React.js, Go, and Postgres)
+   - 5 Major Personal Projects (Long-term development): 
+     -   A Pomodoro time-management application for studying or work tasks (this application will be written in vanilla JavaScript and jQuery) -- DONE
+     -   A flight reservation/booking application (BootStrap, JavaScript, PHP, MySQL)
+     -   A city tour/travel application (React.js, Node.js, and MySQL)
+     -   An E-Commerce application (Vue.js, PHP, MySQL)
+     -   A food delivery application
+   - Short-term development
+      - Responsive Forms
+      - Authentication / Authorization systems
+      - Simple tools to help with daily life
+      - Custom dashboards for reporting data in visual representations and breakdowns
 
 - 🌱 I’m currently learning ...
-    - More Core JavaScript
     - JavaScript Data Structures & Algorithms
-    - SpringBoot
-    - JakartaEE
-    - ReactJS and Angular
-    - Fullstack JavaScript Web Development
-    - RDBMS
+    - PHP fundamentals and additional online courses/projects
+    - Node.js fundamentals and additional online courses/projects
+    - MySQL and MS SQL Server
+    - Additional courses and books on Linux
 
 
 - My achievements so far...
