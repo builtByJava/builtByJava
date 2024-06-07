@@ -1,6 +1,6 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Full Stack Web Developer. 
+My name is Dan Warcholak and I am a Full Stack Software Developer. 
 
 - 🔭 I’m currently working on ... 
 
