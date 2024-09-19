@@ -1,14 +1,16 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Full Stack Software Developer. 
+My name is Dan Warcholak and I am a Java Software Developer. 
 
 - 🔭 I’m currently working on ... 
 
    - Short-term development:
-     - A personal portfolio site written in React.js and Tailwind CSS
+     - 2 small Java programs leveraging OOP concepts and Swing
 
 - 🌱 I’m currently learning ...
-    - React.js
+    - Core Java
+    - Spring Framework
+    - JDBC
 
 
 - My achievements so far...
