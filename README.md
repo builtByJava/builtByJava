@@ -1,16 +1,19 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a Java Software Developer. 
+My name is Dan Warcholak and I am a DevOps Engineer. 
 
 - 🔭 I’m currently working on ... 
 
    - Short-term development:
-     - 2 small Java programs leveraging OOP concepts and Swing
+     - A Python script to manage AWS account email notifications
 
 - 🌱 I’m currently learning ...
-    - Core Java
-    - Spring Framework
-    - JDBC
+    - Core DevOps principles and tools
+    - Self certifications for DevOps Engineering
+    - AWS Cloud Infrastructure
+    - Ansible & Terraform
+    - Linux System Administration
+    - Python for DevOps
 
 
 - My achievements so far...
