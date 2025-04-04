@@ -1,15 +1,18 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a DevOps Engineer. 
+My name is Dan Warcholak and I am a System Administrator. 
 
 - 🔭 I’m currently working on ... 
 
    - Short-term development:
-     - A Python script to manage AWS account email notifications
+     - Ansible automation scripts for administrative tasks
+     - Automated backup system
+     - Building a system recovery device
+     - Network monitoring tool 
 
 - 🌱 I’m currently learning ...
     - Core DevOps principles and tools
-    - Self certifications for DevOps Engineering
+    - CompTIA Network+
     - AWS Cloud Infrastructure
     - Ansible & Terraform
     - Linux System Administration
