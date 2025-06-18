@@ -1,6 +1,6 @@
 ### Hi there !👋
 
-My name is Dan Warcholak and I am a System Administrator. 
+My name is Dan Warcholak and I am an IT Support Engineer. 
 
 - 🔭 I’m currently working on ... 
 
