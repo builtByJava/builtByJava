@@ -11,7 +11,7 @@ My name is Dan Warcholak
 
 
 - My achievements so far...
-    - 100DaysOfCodeChallenge
     - Pomodoro Time-Management Applicaton GEN 1
+    - Python Gym Membership Management System
 
 -->
